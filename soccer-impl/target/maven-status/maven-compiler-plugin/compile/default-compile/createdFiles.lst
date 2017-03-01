@@ -1,0 +1,11 @@
+com/oramon/soccer/impl/SoccerEntity.class
+com/oramon/soccer/impl/SoccerState.class
+com/oramon/soccer/impl/SoccerCommand$UpdateScore.class
+com/oramon/soccer/impl/SoccerEvent$CompetitorUpdated.class
+com/oramon/soccer/impl/SoccerModule.class
+com/oramon/soccer/impl/SoccerEvent$ScoreUpdated.class
+com/oramon/soccer/impl/SoccerCommand.class
+com/oramon/soccer/impl/SoccerServiceImpl.class
+com/oramon/soccer/impl/SoccerCommand$Score.class
+com/oramon/soccer/impl/SoccerCommand$UpdateCompetitor.class
+com/oramon/soccer/impl/SoccerEvent.class
